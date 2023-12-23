@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Hey%20There!%20I'm%20Rafli&fontSize=40&fontAlign=75&fontAlignY=40&color=332421&fontColor=ffffff&height=150">
+</p>
+<h3 align="center">
+  Undergraduate Student | Bangkit Academy 2023, Cloud Computing Cohort | Tech Enthusiast
+</h3>
 
 <!--
 **raflial75/raflial75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
